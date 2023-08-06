@@ -5,7 +5,7 @@ This simple app does not require your data at all, the permission required is li
 ![image](https://github.com/denoqs01/StandDesign/assets/137996130/098c35ca-197f-4835-81c7-e73819e57985)
 
 Please note that this app require the permission to write to device storage in order to save your design report pdf file
-If you find any security vulnerability that has been inadvertently caused by me,or have any question regarding how the app protectes your privacy, feel free to send me an email
+If you find any security vulnerability that has been inadvertently caused by me,or have any question regarding how the app protectes your privacy, feel free to send me an email \n
 Your Sincerely
 Deni Oktora
 South Borneo - Indonesia
